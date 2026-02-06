@@ -1,2 +1,1 @@
-This is a perosnal proejct so,
-college personal please stay away from this repo...
+
