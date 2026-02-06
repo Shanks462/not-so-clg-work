@@ -1,13 +1,13 @@
 const messages = [
     "Are you sure, Mikkuu?",
-    "Really sure??",
+    "Reallyyyy sureeeee ??",
     "Are you positive?",
-    "Kochuu please...",
+    "Kochuu pleasee...",
     "Just think about it, Mikku!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+    "If you say noo, I will be reallyy sedd...",
+    "I will be veryy sedd...",
+    "I will be very very very seddd MIKKUUU...",
+    "Okkk fine, I will stop askingggg...",
     "Just kidding, say yes please, Mikkuuuuuuuuuuuuu! ❤️"
 ];
 
